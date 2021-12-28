@@ -1,7 +1,7 @@
 # Terraform_Azurerm
 Terraform azurerm projects
 01.  Introduction
-. if you are planning to deploy a virtual machine in exist resource then you can directly use this.
+. If you are planning to deploy a virtual machine in exist resource group then you can directly use this module.
 
 Note:- This code is not tested in production. Hence, please check in dev environment before using in to the production.
 
