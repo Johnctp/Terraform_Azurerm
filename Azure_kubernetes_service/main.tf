@@ -23,9 +23,7 @@ resource "azurerm_kubernetes_cluster" "demo" {
   dns_prefix = "demoaks1"
   kubernetes_version = "1.22.2"
   private_cluster_enabled = false
-  #tags = var.tags
- # disk_encryption_set_id = 
- # node_resource_group = 
+
   default_node_pool {
     name = "system"
     node_count = 1
