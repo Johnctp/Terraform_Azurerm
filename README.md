@@ -14,3 +14,7 @@ Terraform azurerm projects
 2. Project - AKS
 
 In progress
+
+3. Project - Rediscache
+
+In progress
